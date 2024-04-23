@@ -57,8 +57,8 @@ The key features of the MPLAB® Harmony Vision are the following:
 
 | Category | Item | Description | Release Type |
 | --- | --- | ---- |---- |
-|  apps | [libcamera_display](./apps/libcamera_display/readme.md) | This application capture live frames from an image sensor and display it on LCD dispaly. | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
-|     | [libcamera_usb](./apps/libcamera_usb/readme.md) | This application capture a frame from a image sensor and the captured frame is saved to a bmp file and copied to a USB drive. | ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+|  apps | [libcamera_display](./apps/libcamera_display/readme.md) | This application captures real-time frames from an image sensor and displays them on an LCD screen.| ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
+|     | [libcamera_usb](./apps/libcamera_usb/readme.md) | This application is designed to capture a frame from an image sensor, subsequently saving the captured frame as a BMP file. Once saved, the file is then transferred to a USB drive.| ![app-beta](https://img.shields.io/badge/application-beta-orange?style=plastic) |
 
 ____
 

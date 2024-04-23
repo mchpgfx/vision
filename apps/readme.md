@@ -10,7 +10,7 @@ market:
 
 # Vision Example Applications
 
-The following applications are provided to demonstrate basic camera capabilities for 32-bit Microchip Microprocessor  & Microcontroller devices and this application capture video frames from camera module interface and display the captured frames on the display using Microchip development board.
+The following applications designed to demonstrate essential camera capabilities for 32-bit Microchip Microprocessors and Microcontrollers. These applications provide the means to capture video frames via the camera module interface and allow for the display of these frames on a screen using a Microchip development board.
 
 * [Libcamera Display](./libcamera_display/readme.md)
 * [Libcamera USB](./libcamera_usb/readme.md)
